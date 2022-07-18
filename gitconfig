@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = january_0002@yahoo.com
+	name = Jenny Varias
